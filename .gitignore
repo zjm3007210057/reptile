@@ -1,0 +1,13 @@
+#忽略target
+target
+#忽略test目录
+test
+# 忽略*.o和*.a文件
+*.[oa]
+#忽略yml，ymal文件
+*.yml
+*.ymal
+#忽略.iml文件
+*.iml
+.idea
+.git
